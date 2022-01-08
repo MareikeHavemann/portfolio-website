@@ -254,10 +254,6 @@ button:focus,
   text-align: center;
 }
 
-.standard-label {
-  background-color: var(--background-color);
-}
-
 /* SVG */
 .berlin-illustration {
   display: block;
