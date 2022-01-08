@@ -52,7 +52,7 @@ a:active {
   color: var(--secondary-color);
 }
 
-.profile__portrait {
+.profile__picture {
   float: left;
   width: 250px;
   height: auto;
