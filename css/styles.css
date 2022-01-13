@@ -192,6 +192,10 @@ button {
   align-items: center;
 }
 
+.button:visited {
+  color: white;
+}
+
 button:hover,
 button:focus,
 .button:hover,
